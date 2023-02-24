@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Lamchi
+### I'm Iwty
 
 - 👋 `【Python爬虫 &&Web逆向 &&App逆向】` 
 - 🌱 `Currently working in Shenzhen, China`
@@ -26,6 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊***
+> ***Holding something deep in your heart,then doing you best,you will succeed.! 😊***
 
-⭐️ From [Lamchi](https://github.com/Lamchi-Joo)
+⭐️ From [Iwty](https://github.com/Iwty)
