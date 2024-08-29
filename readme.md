@@ -7,8 +7,8 @@
 
 - 👋 `【Python爬虫 &&Web逆向 &&App逆向】` 
 - 🌱 `Currently working in Shenzhen, China`
-- 💬  `会一点点网页逆向、会一点点AST、会一点点app逆向、对异步有一定了解`  
-- ⭐ `开发别用Windows，因为不好用`
+- 💬  `Web JS APP Auto RPA`  
+- ⭐ `开发别用Windows  因为不好用  才怪！`
 -  ⚡ `技巧：ctrl + c  && ctrl + v`
 
 ### 🛠 技术栈 | Tech Stack
